@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\bin\Debug\net6.0\Elecciones.Entidades.deps.json
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\bin\Debug\net6.0\Elecciones.Entidades.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\bin\Debug\net6.0\ref\Elecciones.Entidades.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\bin\Debug\net6.0\Elecciones.Entidades.pdb
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\ref\Elecciones.Entidades.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.Entidades\obj\Debug\net6.0\Elecciones.Entidades.pdb

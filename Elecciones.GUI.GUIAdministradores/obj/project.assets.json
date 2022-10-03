@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "MaterialSkin.2/2.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/MaterialSkin.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/MaterialSkin.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Elecciones.DataStore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Elecciones.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Elecciones.DataStore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elecciones.DataStore.dll": {}
+        }
+      },
+      "Elecciones.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Elecciones.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elecciones.Entidades.dll": {}
+        }
+      },
+      "Elecciones.GUI.GUIVotante/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Elecciones.Entidades": "1.0.0",
+          "Elecciones.Servicios": "1.0.0",
+          "MaterialSkin.2": "2.3.1"
+        },
+        "compile": {
+          "bin/placeholder/Elecciones.GUI.GUIVotante.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elecciones.GUI.GUIVotante.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Elecciones.Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Elecciones.DataStore": "1.0.0",
+          "Elecciones.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Elecciones.Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elecciones.Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaterialSkin.2/2.3.1": {
+      "sha512": "w2vFxLNk4InCDU7pXDfBqPfv55HhBtuu8HRfEqQpeS3sNTS1pUzDs/hS0b5JW2/tKvt+P1of9OINP8a9omWDBg==",
+      "type": "package",
+      "path": "materialskin.2/2.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net45/MaterialSkin.dll",
+        "lib/net461/MaterialSkin.dll",
+        "lib/net48/MaterialSkin.dll",
+        "lib/net5.0-windows7.0/MaterialSkin.dll",
+        "materialskin.2.2.3.1.nupkg.sha512",
+        "materialskin.2.nuspec",
+        "nugetIcon.png"
+      ]
+    },
+    "Elecciones.DataStore/1.0.0": {
+      "type": "project",
+      "path": "../Elecciones.DataStore/Elecciones.DataStore.csproj",
+      "msbuildProject": "../Elecciones.DataStore/Elecciones.DataStore.csproj"
+    },
+    "Elecciones.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Elecciones.Entidades/Elecciones.Entidades.csproj",
+      "msbuildProject": "../Elecciones.Entidades/Elecciones.Entidades.csproj"
+    },
+    "Elecciones.GUI.GUIVotante/1.0.0": {
+      "type": "project",
+      "path": "../Elecciones.GUI.GUIVotante/Elecciones.GUI.GUIVotante.csproj",
+      "msbuildProject": "../Elecciones.GUI.GUIVotante/Elecciones.GUI.GUIVotante.csproj"
+    },
+    "Elecciones.Servicios/1.0.0": {
+      "type": "project",
+      "path": "../Elecciones.Servicios/Elecciones.Servicios.csproj",
+      "msbuildProject": "../Elecciones.Servicios/Elecciones.Servicios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Elecciones.Entidades >= 1.0.0",
+      "Elecciones.GUI.GUIVotante >= 1.0.0",
+      "Elecciones.Servicios >= 1.0.0",
+      "MaterialSkin.2 >= 2.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.GUI.GUIAdministradores\\Elecciones.GUI.GUIAdministradores.csproj",
+      "projectName": "Elecciones.GUI.GUIAdministradores",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.GUI.GUIAdministradores\\Elecciones.GUI.GUIAdministradores.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.GUI.GUIAdministradores\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.Entidades\\Elecciones.Entidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.Entidades\\Elecciones.Entidades.csproj"
+            },
+            "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.GUI.GUIVotante\\Elecciones.GUI.GUIVotante.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.GUI.GUIVotante\\Elecciones.GUI.GUIVotante.csproj"
+            },
+            "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.Servicios\\Elecciones.Servicios.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\EleccionesV2\\Elecciones.Servicios\\Elecciones.Servicios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "MaterialSkin.2": {
+            "target": "Package",
+            "version": "[2.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

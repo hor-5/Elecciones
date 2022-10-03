@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Elecciones.Servicios/1.0.0": {
+        "dependencies": {
+          "Elecciones.DataStore": "1.0.0",
+          "Elecciones.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Elecciones.Servicios.dll": {}
+        }
+      },
+      "Elecciones.DataStore/1.0.0": {
+        "dependencies": {
+          "Elecciones.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Elecciones.DataStore.dll": {}
+        }
+      },
+      "Elecciones.Entidades/1.0.0": {
+        "runtime": {
+          "Elecciones.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elecciones.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elecciones.DataStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elecciones.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

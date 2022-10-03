@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87be07bc-a912-4baa-8efb-6eee12203ae2": {
+      "ProjectGuid": "87be07bc-a912-4baa-8efb-6eee12203ae2",
+      "DisplayName": "Elecciones.GUI.GUIAdministradores",
+      "ColorIndex": 0
+    },
+    "8d1d52e5-4bad-4cf6-9db7-7c3aada4660d": {
+      "ProjectGuid": "8d1d52e5-4bad-4cf6-9db7-7c3aada4660d",
+      "DisplayName": "Elecciones.GUI.GUIVotante",
+      "ColorIndex": 1
+    },
+    "8d3cced4-14ba-4cc5-99ad-ab2c66016c4d": {
+      "ProjectGuid": "8d3cced4-14ba-4cc5-99ad-ab2c66016c4d",
+      "DisplayName": "Elecciones.Servicios",
+      "ColorIndex": 2
+    },
+    "47580c84-ffee-4721-819e-56bb20e52e1f": {
+      "ProjectGuid": "47580c84-ffee-4721-819e-56bb20e52e1f",
+      "DisplayName": "BackEndElecciones.Entidades",
+      "ColorIndex": 3
+    },
+    "238041aa-9c01-48be-a859-acc437e3922c": {
+      "ProjectGuid": "238041aa-9c01-48be-a859-acc437e3922c",
+      "DisplayName": "Elecciones.Entidades",
+      "ColorIndex": 4
+    },
+    "91bc0b58-8e8d-4792-a911-53b6b5500d3a": {
+      "ProjectGuid": "91bc0b58-8e8d-4792-a911-53b6b5500d3a",
+      "DisplayName": "DBVotantes",
+      "ColorIndex": 5
+    },
+    "5426fd5f-497a-4ebb-bb8e-a15e7e1e518a": {
+      "ProjectGuid": "5426fd5f-497a-4ebb-bb8e-a15e7e1e518a",
+      "DisplayName": "Elecciones.DataStore",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

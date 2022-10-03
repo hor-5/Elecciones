@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\Elecciones.DataStore.deps.json
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\Elecciones.DataStore.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\ref\Elecciones.DataStore.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\Elecciones.DataStore.pdb
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\Elecciones.Entidades.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\bin\Debug\net6.0\Elecciones.Entidades.pdb
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.csproj.CopyComplete
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\ref\Elecciones.DataStore.dll
+C:\Users\Usuario\source\repos\EleccionesV2\Elecciones.DataStore\obj\Debug\net6.0\Elecciones.DataStore.pdb
